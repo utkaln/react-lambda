@@ -1,1 +1,5 @@
-# react-lambda
+# Serverless App
+- React
+- Lambda
+- DynamoDB
+
