@@ -1,0 +1,13 @@
+{
+
+   "httpReqMethod": "$context.httpMethod",
+
+   "author": $input.json('$.author'),
+
+   "bookName": $input.json('$.bookName'),
+
+   "publishedDate": $input.json('$.publishedDate'),
+
+   "ratings": $input.json('$.ratings')
+
+}
