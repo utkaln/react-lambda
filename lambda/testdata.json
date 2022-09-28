@@ -1,0 +1,13 @@
+{
+
+    "httpReqMethod": "POST",
+
+    "author": "John Doe",
+
+    "bookName": "HTML and CSS: An Introduction ",
+
+    "publishedDate": "2021-01-03",
+
+    "ratings": 4.5
+
+}
