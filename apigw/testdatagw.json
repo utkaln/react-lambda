@@ -1,0 +1,14 @@
+{
+
+    "httpReqMethod": "POST",
+
+    "author": "Jane Doe",
+
+    "bookName": "An introduction to Neural Network",
+
+    "publishedDate": "2018-03-04",
+
+    "ratings": 4.0
+
+}
+
